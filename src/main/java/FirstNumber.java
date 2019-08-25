@@ -11,6 +11,14 @@ public class FirstNumber {
         this.liczba = liczba;
     } // konstruktor FirstNumber
 
+    // gettery i settery
+    public long getLiczba() {
+        return liczba;
+    }
+
+    public void setLiczba(long liczba) {
+        this.liczba = liczba;
+    }
 
     // metoda (funkcja) sprawdza, czy liczba jest pierwsza
     public boolean isFirst(long liczba) {
