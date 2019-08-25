@@ -1,6 +1,7 @@
 
 // klasa main: rozłożenie podanej liczby na czynniki (iloczyn liczb pierwszych)
 // (***) DOKOńCZYć !!! - badanie nieparzystej i wypisywanie liczby jako iloczynu czynników
+// rozszerz zadanie o szukanie NWW dwóch liczb
 
 import java.util.ArrayList;
 import java.util.List;
