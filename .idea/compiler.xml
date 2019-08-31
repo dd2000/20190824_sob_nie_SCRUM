@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="_20190824_sobota" />
         <module name="20190824_sobota" />
+        <module name="_20190824_sob_nie_SCRUM" />
       </profile>
     </annotationProcessing>
   </component>
